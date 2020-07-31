@@ -1,0 +1,16 @@
+{
+  "name": "babel-eslint-799-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.0",
+    "@babel/eslint-parser": "^7.11.0",
+    "eslint": "^7.5.0"
+  }
+}
