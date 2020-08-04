@@ -1,4 +1,4 @@
-This repo aims to reproduce the issue [babel/babel-eslint#799](https://github.com/babel/babel-eslint/issues/799).
+This repo aims to reproduce the issue [babel/babel#10904](https://github.com/babel/babel/issues/10904) (previously: [babel/babel-eslint#799](https://github.com/babel/babel-eslint/issues/799)).
 
 To try it yourself:
 
